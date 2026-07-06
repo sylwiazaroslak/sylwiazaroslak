@@ -31,6 +31,7 @@ Now, I'm ready to bring that exact same problem-solving mindset and eye for deta
 | 📊 **Power BI** | [Project Title](link) | Description |
 | 📋 **Excel** | [Telecom Customer Churn Analysis](https://github.com/sylwiazaroslak/telecom-customer-churn-analysis) | Using advanced Excel, statistical functions, and Pivot Charts to uncover revenue risks and build data-driven retention frameworks. |
 | 📋 **Excel** | [Amazon Stock Market Analysis](https://github.com/sylwiazaroslak/amazon-stock-market-analysis) | Advanced Excel visualization project featuring scatter plots with linear trendlines, frequency histograms, and dual-axis timelines to visually map the relationship between stock volatility and market liquidity. |
+| 📋 **Excel** | [Retail Sales Performance Analysis](https://github.com/sylwiazaroslak/retail_sales_performance_analysis) | Excel visualization and business modeling project deploying time-series trend lines, Two-Way Data Tables, and dynamic charts to map operational leakage and retail profitability. |
 
 ---
 
