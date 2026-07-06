@@ -29,7 +29,7 @@ Now, I'm ready to bring that exact same problem-solving mindset and eye for deta
 | 🗄️ **SQL** | [Project Title](link) | Short, 1-sentence description of the data insights found. |
 | 🐍 **Python** | [Project Title](link) | Short, 1-sentence description of the automation/analysis script. |
 | 📊 **Power BI** | [Project Title](link) | Short, 1-sentence description of the dashboard and business value. |
-| 📋 **Excel** | [Project Title](link) | Short, 1-sentence description of the data model or reporting tool. |
+| 📋 **Excel** | [Telecom Customer Churn Analysis](https://github.com/sylwiazaroslak/telecom-customer-churn-analysis) | Using advanced Excel, statistical functions, and Pivot Charts to uncover revenue risks and build data-driven retention frameworks. |
 
 ---
 
