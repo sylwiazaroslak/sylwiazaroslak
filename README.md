@@ -26,10 +26,11 @@ Now, I'm ready to bring that exact same problem-solving mindset and eye for deta
 
 | Technology | Project | Key Takeaway / Impact |
 | :--- | :--- | :--- |
-| 🗄️ **SQL** | [Project Title](link) | Short, 1-sentence description of the data insights found. |
-| 🐍 **Python** | [Project Title](link) | Short, 1-sentence description of the automation/analysis script. |
-| 📊 **Power BI** | [Project Title](link) | Short, 1-sentence description of the dashboard and business value. |
+| 🗄️ **SQL** | [Project Title](link) | Description |
+| 🐍 **Python** | [Project Title](link) | Description |
+| 📊 **Power BI** | [Project Title](link) | Description |
 | 📋 **Excel** | [Telecom Customer Churn Analysis](https://github.com/sylwiazaroslak/telecom-customer-churn-analysis) | Using advanced Excel, statistical functions, and Pivot Charts to uncover revenue risks and build data-driven retention frameworks. |
+| 📋 **Excel** | [Amazon Stock Market Analysis](https://github.com/sylwiazaroslak/amazon-stock-market-analysis) | Advanced Excel visualization project featuring scatter plots with linear trendlines, frequency histograms, and dual-axis timelines to visually map the relationship between stock volatility and market liquidity. |
 
 ---
 
