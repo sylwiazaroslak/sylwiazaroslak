@@ -26,6 +26,7 @@ Now, I'm ready to bring that exact same problem-solving mindset and eye for deta
 
 | Technology | Project | Key Takeaway / Impact |
 | :--- | :--- | :--- |
+| 🗄️ **SQL** | [Crowdfunding Failure Analysis with SQL](https://github.com/sylwiazaroslak/kickstarter-campaign-analysis-sql) | Relational database project using SQL queries. Leverages CASE statements for conditional logical routing, schema audits with PRAGMA mapping, and precision metric division to isolate and evaluate crowdfunding near-miss patterns. |
 | 🗄️ **SQL** | [Project Title](link) | Description |
 | 🐍 **Python** | [Project Title](link) | Description |
 | 📊 **Power BI** | [Project Title](link) | Description |
