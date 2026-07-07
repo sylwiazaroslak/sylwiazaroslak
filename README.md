@@ -27,7 +27,7 @@ Now, I'm ready to bring that exact same problem-solving mindset and eye for deta
 | Technology | Project | Key Takeaway / Impact |
 | :--- | :--- | :--- |
 | 🗄️ **SQL** | [Crowdfunding Failure Analysis with SQL](https://github.com/sylwiazaroslak/kickstarter-campaign-analysis-sql) | Relational database project using SQL queries. Leverages CASE statements for conditional logical routing, schema audits with PRAGMA mapping, and precision metric division to isolate and evaluate crowdfunding near-miss patterns. |
-| 🗄️ **SQL** | [Project Title](link) | Description |
+| 🗄️ **SQL** | [Scale Model Sales Analytics SQL](https://github.com/sylwiazaroslak/scale-model-sales-analytics-sql) | SQL project auditing over 3,200 retail sales records. Applies multi-level Common Table Expressions (CTEs), nested correlated subqueries, multi-table JOINs, and metadata PRAGMA mapping to drive inventory optimization and customer profiling. |
 | 🐍 **Python** | [Project Title](link) | Description |
 | 📊 **Power BI** | [Project Title](link) | Description |
 | 📋 **Excel** | [Telecom Customer Churn Analysis](https://github.com/sylwiazaroslak/telecom-customer-churn-analysis) | Using advanced Excel, statistical functions, and Pivot Charts to uncover revenue risks and build data-driven retention frameworks. |
