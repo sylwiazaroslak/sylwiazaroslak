@@ -16,7 +16,7 @@ Now, I'm ready to bring that exact same problem-solving mindset and eye for deta
 ### 🛠️ Tech Stack & Skills
 
 * **Languages & Querying:** SQL (SQLite), Python (Pandas, NumPy)
-* **Data Visualization:** Power BI, Advanced Excel (Power Query)
+* **Data Visualization:** Power BI, Advanced Excel (Power Query), Tableau
 * **Methodologies:** Data Quality Assurance, Business Process Analysis, Requirements Gathering
 * **Tools:** Jira, Confluence, Git/GitHub
 
@@ -29,7 +29,8 @@ Now, I'm ready to bring that exact same problem-solving mindset and eye for deta
 | 🗄️ **SQL** | [Crowdfunding Failure Analysis with SQL](https://github.com/sylwiazaroslak/kickstarter-campaign-analysis-sql) | Relational database project using SQL queries. Leverages CASE statements for conditional logical routing, schema audits with PRAGMA mapping, and precision metric division to isolate and evaluate crowdfunding near-miss patterns. |
 | 🗄️ **SQL** | [Scale Model Sales Analytics SQL](https://github.com/sylwiazaroslak/scale-model-sales-analytics-sql) | SQL project auditing over 3,200 retail sales records. Applies multi-level Common Table Expressions (CTEs), nested correlated subqueries, multi-table JOINs, and metadata PRAGMA mapping to drive inventory optimization and customer profiling. |
 | 🐍 **Python** | [Project Title](link) | Description |
-| 📊 **Power BI** | [Project Title](link) | Description |
+| 📊 **Power BI** | [Zero-Day Exploits Analysis](https://github.com/sylwiazaroslak/zero-day-exploit-analysis) | Security risk analysis project evaluating historical zero-day exploit registries. Uses Power Query and DAX to map patch timelines, isolate high-risk application vectors, and rank vendor vulnerabilities to drive secure IT software procurement. |
+| 📊 **Power BI** | [Global Superstore Sales Analysis](https://github.com/sylwiazaroslak/global-superstore-sales-analysis) | End-to-end retail analytics project transforming raw transactional records into an optimized star schema. Applies Power Query ETL pipelines and dynamic DAX measures to track $12.6M+ in revenue milestones, market averages, and profitability trends. |
 | 📋 **Excel** | [Telecom Customer Churn Analysis](https://github.com/sylwiazaroslak/telecom-customer-churn-analysis) | Using advanced Excel, statistical functions, and Pivot Charts to uncover revenue risks and build data-driven retention frameworks. |
 | 📋 **Excel** | [Amazon Stock Market Analysis](https://github.com/sylwiazaroslak/amazon-stock-market-analysis) | Advanced Excel visualization project featuring scatter plots with linear trendlines, frequency histograms, and dual-axis timelines to visually map the relationship between stock volatility and market liquidity. |
 | 📋 **Excel** | [Retail Sales Performance Analysis](https://github.com/sylwiazaroslak/retail_sales_performance_analysis) | Excel visualization and business modeling project deploying time-series trend lines, Two-Way Data Tables, and dynamic charts to map operational leakage and retail profitability. |
